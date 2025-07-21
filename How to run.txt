@@ -1,0 +1,15 @@
+How to run:
+1) donwload assets and clock_app.py in a single folder.
+2) install pakages using pip install <name>:
+customtkinter
+time
+math
+datetime
+pytz
+playsound
+threading
+sys
+os
+pathlib
+
+3) run clock_app.py file in python 
