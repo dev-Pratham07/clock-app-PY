@@ -1,0 +1,13 @@
+How to run:
+donwload assets and clock_app.py in a single folder.
+install pakages:
+customtkinter
+time
+math
+datetime
+pytz
+playsound
+threading
+sys
+os
+pathlib
